@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">xml</string>
+    <string name="family">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="subname">Отчество</string>
+    <string name="city">Город</string>
+    <string name="school">Школа</string>
+    <string name="year">Год</string>
+    <string name="qualifier">Опыт программирования</string>
+    <string name="languages">Знание языка программирования</string>
+</resources>
